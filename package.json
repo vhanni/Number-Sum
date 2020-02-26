@@ -1,5 +1,5 @@
 {
-  "name": "example-test-suite",
+  "name": "test-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uniibu/example-test-suite.git"
+    "url": "git+https://github.com/uniibu/test-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/uniibu/example-test-suite/issues"
+    "url": "https://github.com/uniibu/test-template/issues"
   },
-  "homepage": "https://github.com/uniibu/example-test-suite#readme",
+  "homepage": "https://github.com/uniibu/test-template#readme",
   "devDependencies": {
     "expect": "^25.1.0",
     "mocha": "^7.1.0"
